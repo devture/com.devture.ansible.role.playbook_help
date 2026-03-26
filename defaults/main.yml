@@ -23,6 +23,5 @@ devture_playbook_help_apt_cache_prewarming_enabled: true
 # Related to: `devture_playbook_help_apt_cache_prewarming_enabled`.
 devture_playbook_help_apt_cache_prewarming_cache_valid_time: 600
 
-
 # Controls whether the apt cache being updated constitutes marking the task as changed
 devture_playbook_help_apt_cache_prewarming_changed_when: true
